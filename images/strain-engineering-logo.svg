@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 440" role="img" aria-labelledby="title desc">
+  <title id="title">Strain Engineering Private Limited</title>
+  <desc id="desc">A red engineering cog, purple Strain Engineering wordmark, green roof accent and Private Limited subheading.</desc>
+  <defs>
+    <style>
+      .wordmark { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; letter-spacing: -10px; fill: #39216f; }
+      .submark { font-family: Arial, Helvetica, sans-serif; font-weight: 800; letter-spacing: 10px; fill: #087c3f; }
+    </style>
+  </defs>
+  <g transform="translate(48 55)">
+    <path fill="#e8322b" d="M158 0h39v55c14 5 27 12 39 21l38-39 28 28-39 39c9 12 16 25 21 39h55v39h-55c-5 14-12 27-21 39l39 39-28 28-38-39c-12 9-25 16-39 21v55h-39v-55c-14-5-27-12-39-21l-38 39-28-28 39-39c-9-12-16-25-21-39H0v-39h55c5-14 12-27 21-39L37 65l28-28 38 39c12-9 25-16 39-21V0h16zm20 93c-63 0-114 51-114 114s51 114 114 114c17 0 33-4 48-11v-55c-14 8-30 13-48 13-34 0-61-27-61-61s27-61 61-61c18 0 34 5 48 13V104c-15-7-31-11-48-11z"/>
+    <circle cx="178" cy="207" r="74" fill="white"/>
+  </g>
+  <path d="M836 136l48-57 199 99H898z" fill="#078343"/>
+  <path d="M836 136l48-57v101z" fill="#d6d6d6"/>
+  <text x="250" y="272" class="wordmark" font-size="128">Strain Engineering</text>
+  <text x="700" y="340" class="submark" font-size="39">PRIVATE LIMITED</text>
+</svg>
